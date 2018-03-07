@@ -11,8 +11,8 @@ You will need to have Java, Android Studio or IntelliJ, and the Android SDK inst
 ## Instructions
 
 1. Fork this repository.
-1. Create a source folder to contain your code.
-1. In the source directory, please create an Android app that accomplishes the task below.
+1. Create a Gradle based Android project to contain your code.
+1. Create an Android app that accomplishes the task below.
 1. Commit and push your code to your new repository.
 1. Send us a pull request, we will review your code and get back to you.
 
