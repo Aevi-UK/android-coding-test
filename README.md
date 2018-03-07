@@ -1,6 +1,6 @@
 # AEVI Android Coding Test
 
-We are hiring see the [job spec here](/blob/master/JOBSPEC.md)
+We are hiring see the [job spec here](JOBSPEC.md)
 
 In order to be considered for the Android position, you must complete the following steps.
 
